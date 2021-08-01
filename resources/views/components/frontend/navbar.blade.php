@@ -2,7 +2,7 @@
 <div class="mb-0 py-2 justify-between items-center hidden md:flex">
     <a href="/" class="flex items-center">
         <img src="{{asset('img/favicon.png')}}" alt="logo" class="rounded-full h-10 w-10 object-cover object-center">
-        <div class="ml-4 font-semibold">Pratima Singh</div>
+        <div class="ml-4 font-semibold">Octank Demo</div>
     </a>
     <form action="{{route("search-article")}}">
         <div class="flex">
@@ -34,7 +34,7 @@
         <a href="/" class="flex items-center">
             <img src="{{asset('img/favicon.png')}}" alt="logo"
                  class="rounded-full h-10 w-10 object-cover object-center">
-            <div class="ml-4 font-semibold">Pratima Singh</div>
+            <div class="ml-4 font-semibold">Octank Demo</div>
         </a>
 
         <a class="rounded-full text-red-900 bg-red-500 hidden sm-hide-menu"
