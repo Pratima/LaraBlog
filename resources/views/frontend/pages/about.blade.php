@@ -9,34 +9,9 @@
             <h3>Hi</h3>
             <h1><span class="text-gray-500">I am </span>Pratima Singh</h1>
             <section class="text-gray-600">
-                An experienced web artisan who loves building challenging web application.
+            I’m a Solutions Architect in Amazon Web Services also referred to as AWS. Prior to working at AWS, I have led Cloud Center of Excellence teams within various AWS customers for almost a decade.
+            My experience has given me a unique understanding of how AWS services can be used to achieve business goals and innovate..
             </section>
-            <x-frontend.social-links class="mt-3"/>
         </div>
-    </div>
-    <div class="md:flex justify-between mt-5 md:mt-20">
-        <section>
-            <h2>Experienced on</h2>
-            <ul>
-                <li>- Web Development Workflow</li>
-                <li>- PHP, Laravel, Livewire</li>
-                <li>- Javascript, VueJS, Inertia JS</li>
-                <li>- Tailwind CSS, Bootstrap</li>
-                <li>- Git</li>
-                <li>- AWS</li>
-                <li>- Github, Gitlab and Bitbucket</li>
-                <li>- JiRA, Trello</li>
-            </ul>
-        </section>
-
-        <section class="mt-5 md:mt-0">
-            <h2>Current Interests</h2>
-            <ul class="">
-                <li>- Building SaaS</li>
-                <li>- Machine Learning</li>
-                <li>- Artificial Intelligence</li>
-                <li>- Blockchain Technology</li>
-            </ul>
-        </section>
     </div>
 </x-frontend>
