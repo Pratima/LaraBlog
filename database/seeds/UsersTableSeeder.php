@@ -16,7 +16,7 @@ class UsersTableSeeder extends Seeder
         if (env("APP_ENV") == 'local') {
             $owner = User::create(
                 [
-                    'name' => 'Al- Imran Ahmed',
+                    'name' => 'Pratima Singh',
                     'username' => 'owner',
                     'password' => \Hash::make('owner'),
                     'email' => 'owner@gmail.com',
@@ -63,10 +63,10 @@ class UsersTableSeeder extends Seeder
         } else {
             $owner = User::create(
                 [
-                    'name' => 'Al- Imran Ahmed',
-                    'username' => 'al_imran_ahmed',
+                    'name' => 'Pratima Singh',
+                    'username' => 'pratima_singh',
                     'password' => bcrypt('owner'),
-                    'email' => 'al.imran.cse@gmail.com',
+                    'email' => 'pxs@amazon.com',
                     'last_ip' => '127.0.0.1',
                 ]
             );
