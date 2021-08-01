@@ -22,9 +22,9 @@ class UserFactory extends Factory
     public function definition()
     {
         return [
-            'title' => 'Mr',
-            'name' => 'Al Imran Ahmed',
-            'username' => 'imran',
+            'title' => 'Ms',
+            'name' => 'Pratima Singh',
+            'username' => 'pratima',
             'email' => $this->faker->email,
             'password' => bcrypt('secret'),
             'token' => null,

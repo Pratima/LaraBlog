@@ -1,7 +1,7 @@
 </div>
 <div class="mt-4 p-4 border-t border-blue-200 md:flex md:justify-between text-center">
     <div>
-        <?php echo '&copy; ' . (new DateTime())->format('Y') . ' Al Imran Ahmed' ?>
+        <?php echo '&copy; ' . (new DateTime())->format('Y') . ' Pratima Singh' ?>
     </div>
 
     <x-frontend.social-links class="justify-center my-3 md:my-0"/>
