@@ -4,8 +4,6 @@
         <?php echo '&copy; ' . (new DateTime())->format('Y') . ' Pratima Singh' ?>
     </div>
 
-    <x-frontend.social-links class="justify-center my-3 md:my-0"/>
-
     <div>
         <a href="{{route('contact')}}" class="border-b border-dotted border-indigo-600">Contact</a>
     </div>
